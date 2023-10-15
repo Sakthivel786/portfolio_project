@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family:'poppins',sans-serif;
+    box-sizing: border-box;
+}
+body{
+    background: #080808;
+    color: #fff;
+}
+#header{
+    width: 35%;
+    height: 100vh;
+    background-image: url(./vecteezy_man-standing-holding-laptop-while-giving-ok-sign-with-hand_11007135_536.png);
+    background-size:cover;
+    background-position: cover;
+}
